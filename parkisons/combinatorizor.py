@@ -11,5 +11,6 @@ class Combinatorizor:
 
         # if you want add more threading or something here
         # this is just for demo but if i don't note it i'll get pissed off at myself
+        # use iterator pattern so we can do the processing lazily idiot
         web_scraper.process_link()
 

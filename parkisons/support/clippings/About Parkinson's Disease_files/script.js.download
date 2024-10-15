@@ -1,0 +1,250 @@
+(function ($) {
+  $(function () {
+
+// Hide Header on on scroll down
+
+    let didScroll;
+    let lastScrollTop = 0;
+    const delta = 55;
+    let $x = $('#nav, #updates');
+
+
+    const hasScrolled = () => {
+      const st = $(window).scrollTop();
+
+      // Make sure they scroll more than delta
+      if (Math.abs(lastScrollTop - st) <= delta) return;
+
+
+      if (st > lastScrollTop && st > 121) {
+
+        $x.addClass('up-hide');
+
+      } else {
+
+        $x.removeClass('up-hide');
+
+      }
+
+      lastScrollTop = st;
+    };
+
+    $(window).scroll(() => didScroll = true);
+
+    setInterval(() => {
+      if (didScroll) {
+        hasScrolled();
+        didScroll = false;
+      }
+    }, 250);
+
+
+    $(document).ready(function () {
+
+      $('video').hover(function () {
+        this.playbackRate = 3.0; // Change the playback rate to your desired speed (2.0 is twice as fast)
+        this.play();
+      }, function () {
+        this.pause();
+      });
+
+
+// CATEGORY MENU
+
+      var exploreClicked = false; // Flag to track if the explore button is clicked
+      var menuHidden = false;
+      $("#explore").click(function () {
+        $(".category-menu").stop().animate({height: 'toggle', opacity: 'toggle'}, 'slow');
+        $('html, body').animate({
+          scrollTop: $(".tie").offset().top
+        }, 'slow');
+        menuHidden = !menuHidden; // Update the flag
+        exploreClicked = true; // Update the flag to indicate explore button click
+        if ($(".action-bar__close").is(":hidden")) {
+          $(".action-bar__close").show();
+          $(".action-bar__back").hide();
+        } else {
+          $(".action-bar__close").hide();
+          $(".action-bar__back").show();
+        }
+      });
+
+
+      $(".action-bar__close").click(function () {
+        $(".category-menu").stop().animate({height: 'toggle', opacity: 'toggle'}, 'slow');
+        $(".action-bar__close").hide()
+        $(".action-bar__back").show();
+        menuHidden = !menuHidden; // Update the flag
+        exploreClicked = true; // Update the flag to indicate explore button click
+      });
+
+      $(".item").click(function () {
+        $(".category-menu").stop().animate({height: 'toggle', opacity: 'toggle'}, 'slow');
+        $('html, body').animate({
+          scrollTop: $(".tie").offset().top
+        }, 'slow');
+        menuHidden = !menuHidden; // Update the flag
+        exploreClicked = true; // Update the flag to indicate explore button click
+      });
+
+    });
+
+    document.addEventListener("DOMContentLoaded", function () {
+      var links = document.querySelectorAll(".item");
+
+      links.forEach(function (link) {
+        link.addEventListener("click", function (e) {
+          e.preventDefault(); // Prevent the default link behavior (scrolling to the anchor)
+
+          // Remove "active" class from all links with class "item"
+          links.forEach(function (itemLink) {
+            itemLink.classList.remove("active");
+          });
+
+          // Add "active" class to the clicked link
+          this.classList.add("active");
+
+          var anchorLinks = this.querySelectorAll('a');
+          anchorLinks.forEach(function (a) {
+            var href = a.getAttribute("href").substr(1); // Remove the leading "#"
+            var targetElement = $("#" + href);
+            $('.content').removeClass('active')
+            targetElement.addClass("active target");
+
+            $(".action-bar__close").hide()
+            $(".action-bar__back").show();
+
+          });
+
+        });
+      });
+    });
+
+
+// });
+    $(document).ready(function () {
+      let slidersInitialized = [];
+
+      function initializeSlider($slider) {
+        $slider.slick({
+          dots: false,
+          variableWidth: true,
+          infinite: false,
+          initialSlide: 0,
+          slidesToScroll: 1,
+          draggable: true,
+          swipeToSlide: true,
+          nextArrow: $slider.closest('.ads__slider').find('.nxt'),
+          prevArrow: $slider.closest('.ads__slider').find('.prv'),
+          touchThreshold: 100,
+        });
+        slidersInitialized.push($slider);
+        var cards = jQuery('.slick-slide').length
+        $slider.closest('.ads__slider').find('.view_all').text("LIST ALL ("+ cards +")");
+        // $slider.closest('.ads__slider').css({'display': 'flex'});
+
+      }
+
+      function destroySlider($slider) {
+        $slider.slick('unslick');
+        slidersInitialized = slidersInitialized.filter(slider => slider[0] !== $slider[0]);
+        $slider.closest('.ads__slider').find('.view_all').text("BACK TO SLIDE");
+      }
+
+
+      // Initial slider initialization
+      jQuery('.ads__slider--container').each(function () {
+        initializeSlider($(this));
+      });
+
+      // Click handler for toggle button
+      jQuery('.view_all').on('click', function () {
+        let $slider = jQuery(this).closest('.ads__slider').find('.ads__slider--container');
+        if (slidersInitialized.some(slider => slider[0] === $slider[0])) {
+          destroySlider($slider);
+          jQuery('.ads__slider--nav').css({'display': 'none'});
+        } else {
+          initializeSlider($slider);
+          jQuery('.ads__slider--nav').css({'display': 'flex'});
+
+        }
+      });
+    });
+
+
+    document.addEventListener("DOMContentLoaded", function () {
+      const noses = document.querySelectorAll('.nose');
+
+      noses.forEach(nose => {
+        const goals = nose.querySelectorAll('.goal');
+        const options = nose.querySelectorAll('.goal-options .option');
+        const nextButton = nose.querySelector('.nose-nxt');
+        const prevButton = nose.querySelector('.nose-prv');
+
+        let currentGoalIndex = 0;
+
+        function showGoal(index) {
+          goals.forEach((goal, idx) => {
+            if (idx === index) {
+              goal.classList.add('active');
+            } else {
+              goal.classList.remove('active');
+            }
+          });
+
+          options.forEach((option, idx) => {
+            if (idx === index) {
+              option.classList.add('active');
+            } else {
+              option.classList.remove('active');
+            }
+          });
+        }
+
+        options.forEach((option, index) => {
+          option.addEventListener('click', () => {
+            currentGoalIndex = index;
+            showGoal(index);
+          });
+        });
+
+        if (nextButton) {
+          nextButton.addEventListener('click', () => {
+            currentGoalIndex = (currentGoalIndex + 1) % goals.length;
+            showGoal(currentGoalIndex);
+          });
+        }
+
+        if (prevButton) {
+          prevButton.addEventListener('click', () => {
+            currentGoalIndex = (currentGoalIndex - 1 + goals.length) % goals.length;
+            showGoal(currentGoalIndex);
+          });
+        }
+
+        // Initialize the first goal as active
+        showGoal(currentGoalIndex);
+      });
+    });
+
+    function getMousePos(evt) {
+      var doc = document.documentElement || document.body;
+      var pos = {
+        x: evt ? evt.pageX : window.event.clientX + doc.scrollLeft - doc.clientLeft,
+        y: evt ? evt.pageY : window.event.clientY + doc.scrollTop - doc.clientTop
+      };
+      return pos;
+    }
+
+    document.onmousemove = moveMouse;
+
+    function moveMouse(evt) {
+      var pos = getMousePos(evt),
+        followMouse = document.getElementById("_followMouse");
+        if(followMouse){
+          followMouse.style.backgroundPosition = pos.x + "px " + pos.y + "px";
+        }
+    }
+
+  })
+})(jQuery);

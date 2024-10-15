@@ -1,0 +1,13 @@
+header.diff-header {
+    margin-top: 200px;
+    background: #f1f1f1;
+    padding: 20px;
+}
+header.diff-header a,
+.diff-controls a{
+  color: #00267e
+}
+.diff-controls {
+    background: #f1f1f1;
+    padding: 20px;
+}

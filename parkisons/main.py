@@ -3,5 +3,8 @@ from scraps import WebScraper
 
 if __name__ == '__main__':
     combinatorizor = Combinatorizor()
-    ws = WebScraper('https://www.genome.gov/Genetic-Disorders/Parkinsons-Disease')
-    combinatorizor.push(ws)
+
+    with open('target_links.txt', 'r') as file:
+        for line in file:
+            ws = WebScraper(line)
+            combinatorizor.push(ws)

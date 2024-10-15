@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){let t=document.querySelectorAll(".nav-item");function e(t){t.stopPropagation(),n(),this.classList.add("active")}function n(){t.forEach(t=>t.classList.remove("active"))}t.forEach(t=>{t.addEventListener("click",e)}),document.addEventListener("click",function t(){n()})});

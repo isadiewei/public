@@ -17,5 +17,5 @@ class WebScraper:
             print(link.get('href'))
 
         find_these = ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']
-        for text in soup.find_all(find_these):
-            print(text)
+        for tags in soup.find_all(find_these):
+            print(tags.name, '->', tags.text)
