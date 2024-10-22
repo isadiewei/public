@@ -34,14 +34,16 @@ preference to the shorter timescale.
 
 Business people and developers must work
 together daily throughout the project.
-
+The most efficient and effective method of
+conveying information to and within a development
+team is face-to-face conversation.
 Build projects around motivated individuals.
 Give them the environment and support they need,
 and trust them to get the job done.
 
-The most efficient and effective method of
-conveying information to and within a development
-team is face-to-face conversation.
+focusing on the sancticty of time, 
+and the face to face personability, 
+of a motivated individuals work,
 
 Working software is the primary measure of progress.
 
