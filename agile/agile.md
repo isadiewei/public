@@ -16,9 +16,17 @@ Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.
 
+willingness to complete something is defined by the adherence to long term goals
+achieved by visualizing success, prepar{ing|ed} logistics, building mastery
+
 Welcome changing requirements, even late in
 development. Agile processes harness change for
 the customer's competitive advantage.
+
+recording thoughts and distortions
+in motion allows for replacement of unhealthy patterns
+and as such more chesive, consistent progress
+moving forward as visualization is paramount to success
 
 Deliver working software frequently, from a
 couple of weeks to a couple of months, with a
@@ -53,4 +61,14 @@ emerge from self-organizing teams.
 At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts
 its behavior accordingly.
+
+
+---
+
+work together through changing requirements
+true to your personality outside of work
+help the other parties understand how you think about the problem
+and respond with a motivation environment and sustainable progress
+toward perfecting techniques hewn from an iterative mining of 
+designs from events of our shared past
 
