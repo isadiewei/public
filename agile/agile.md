@@ -5,16 +5,20 @@
 
 https://agilemanifesto.org/
 
-Individuals and interactions over processes and tools
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
 Responding to change over following a plan
 
  We follow these principles:
 
+Working software over comprehensive documentation
 Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.
+Deliver working software frequently, from a
+couple of weeks to a couple of months, with a
+preference to the shorter timescale.
+Working software is the primary measure of progress.
+Continuous attention to technical excellence
+and good design enhances agility.
 
 willingness to complete something is defined by the adherence to long term goals
 achieved by visualizing success, prepar{ing|ed} logistics, building mastery
@@ -28,40 +32,25 @@ in motion allows for replacement of unhealthy patterns
 and as such more chesive, consistent progress
 moving forward as visualization is paramount to success
 
-Deliver working software frequently, from a
-couple of weeks to a couple of months, with a
-preference to the shorter timescale.
-
-Business people and developers must work
-together daily throughout the project.
-The most efficient and effective method of
-conveying information to and within a development
-team is face-to-face conversation.
-Build projects around motivated individuals.
-Give them the environment and support they need,
-and trust them to get the job done.
-
+Individuals and interactions over processes and tools
 focusing on the sancticty of time, 
 and the face to face personability, 
-of a motivated individuals work,
+of all our motivated individual work,
+in applying themselves as volunteers,
+we create our valuable contributions,
+prioritizing collaboration over contract negotiation,
+processes or tools of potentially-aware assistence,
 
-Working software is the primary measure of progress.
 
 Agile processes promote sustainable development.
 The sponsors, developers, and users should be able
 to maintain a constant pace indefinitely.
-
-Continuous attention to technical excellence
-and good design enhances agility.
 
 Simplicity--the art of maximizing the amount
 of work not done--is essential.
 
 do so simply and without loosing sight
 of your highest priority
-
-The best architectures, requirements, and designs
-emerge from self-organizing teams.
 
 "we are all in the gutters but some of us are
 looking at the stars" - oscar wilde
