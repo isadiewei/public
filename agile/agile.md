@@ -1,9 +1,6 @@
 # agile methodology, revised
 
-> this project existed because i'm bad at remembering lists
-> but better at remembering sentiments
-
-https://agilemanifesto.org/
+> project exists in honor of https://agilemanifesto.org/
 
 focusing on the sancticty of time, 
 and the face to face personability, 
