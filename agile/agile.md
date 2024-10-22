@@ -5,9 +5,6 @@
 
 https://agilemanifesto.org/
 
-Responding to change over following a plan
-
-Working software over comprehensive documentation
 Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.
@@ -18,31 +15,24 @@ Working software is the primary measure of progress.
 Continuous attention to technical excellence
 and good design enhances agility.
 
-willingness to complete something is defined by the adherence to long term goals
-achieved by visualizing success, prepar{ing|ed} logistics, building mastery
-
-Welcome changing requirements, even late in
-development. Agile processes harness change for
-the customer's competitive advantage.
-
-recording thoughts and distortions
-in motion allows for replacement of unhealthy patterns
-and as such more chesive, consistent progress
-moving forward as visualization is paramount to success
-
 focusing on the sancticty of time, 
 and the face to face personability, 
 of all our motivated individual work,
 in applying themselves as volunteers,
 we create our valuable contributions and interactions,
-
+saving what is needed for further generations collaboration,
 prioritizing collaboration over contract negotiation,
 processes or awakening tools of potentially-aware assistence,
 sustained indinitely over the time of our teams coherence,
-
-At regular intervals, the team reflects on how
-to become more effective, then tunes and adjusts
-its behavior accordingly.
+under the acceptance of change and consequence,
+we maintain our willingness to complete tasks,
+by visualizing and preparing for our success,
+building mastery of surrounding environments,
+and adjusting our teamwork effectively,
+to deliver technical excellence always,
+to tune ourselves for future problems,
+and adjust as we are able and required,
+for cohesiveness and replacement of unhealthy patterns,
 we view this as the path to competancy for our peers
 
 Simplicity
