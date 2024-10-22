@@ -55,12 +55,39 @@ and good design enhances agility.
 Simplicity--the art of maximizing the amount
 of work not done--is essential.
 
+do so simply and without loosing sight
+of your highest priority
+
 The best architectures, requirements, and designs
 emerge from self-organizing teams.
+
+"we are all in the gutters but some of us are
+looking at the stars" - oscar wilde
 
 At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts
 its behavior accordingly.
+
+(forgot these names originally sorry about that)
+Kent Beck
+Mike Beedle
+Arie van Bennekum
+Alistair Cockburn
+Ward Cunningham
+Martin Fowler
+James Grenning
+Jim Highsmith
+Andrew Hunt
+Ron Jeffries
+Jon Kern
+Brian Marick
+Robert C. Martin
+Steve Mellor
+Ken Schwaber
+Jeff Sutherland
+Dave Thomas
+
+
 
 
 ---
@@ -71,4 +98,6 @@ help the other parties understand how you think about the problem
 and respond with a motivation environment and sustainable progress
 toward perfecting techniques hewn from an iterative mining of 
 designs from events of our shared past
+
+
 
