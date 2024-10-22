@@ -7,8 +7,6 @@ https://agilemanifesto.org/
 
 Responding to change over following a plan
 
- We follow these principles:
-
 Working software over comprehensive documentation
 Our highest priority is to satisfy the customer
 through early and continuous delivery
@@ -32,32 +30,28 @@ in motion allows for replacement of unhealthy patterns
 and as such more chesive, consistent progress
 moving forward as visualization is paramount to success
 
-Individuals and interactions over processes and tools
 focusing on the sancticty of time, 
 and the face to face personability, 
 of all our motivated individual work,
 in applying themselves as volunteers,
-we create our valuable contributions,
+we create our valuable contributions and interactions,
+
 prioritizing collaboration over contract negotiation,
-processes or tools of potentially-aware assistence,
+processes or awakening tools of potentially-aware assistence,
+sustained indinitely over the time of our teams coherence,
 
+At regular intervals, the team reflects on how
+to become more effective, then tunes and adjusts
+its behavior accordingly.
+we view this as the path to competancy for our peers
 
-Agile processes promote sustainable development.
-The sponsors, developers, and users should be able
-to maintain a constant pace indefinitely.
-
-Simplicity--the art of maximizing the amount
-of work not done--is essential.
-
+Simplicity
 do so simply and without loosing sight
 of your highest priority
 
 "we are all in the gutters but some of us are
 looking at the stars" - oscar wilde
 
-At regular intervals, the team reflects on how
-to become more effective, then tunes and adjusts
-its behavior accordingly.
 
 (forgot these names originally sorry about that)
 Kent Beck
