@@ -11,6 +11,7 @@ saving what is needed for further generations collaboration,
 prioritizing collaboration over contract negotiation,
 processes or awakening tools of potentially-aware assistence,
 sustained indinitely over the time of our teams coherence,
+
 under the acceptance of change and consequence,
 we maintain our willingness to complete tasks,
 by visualizing and preparing for our success,
