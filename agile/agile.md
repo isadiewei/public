@@ -5,16 +5,6 @@
 
 https://agilemanifesto.org/
 
-Our highest priority is to satisfy the customer
-through early and continuous delivery
-of valuable software.
-Deliver working software frequently, from a
-couple of weeks to a couple of months, with a
-preference to the shorter timescale.
-Working software is the primary measure of progress.
-Continuous attention to technical excellence
-and good design enhances agility.
-
 focusing on the sancticty of time, 
 and the face to face personability, 
 of all our motivated individual work,
@@ -33,17 +23,10 @@ to deliver technical excellence always,
 to tune ourselves for future problems,
 and adjust as we are able and required,
 for cohesiveness and replacement of unhealthy patterns,
-we view this as the path to competancy for our peers
-
-Simplicity
-do so simply and without loosing sight
+we view this as the path to competancy for our peers,
+doing so simply and without loosing sight,
 of your highest priority
 
-"we are all in the gutters but some of us are
-looking at the stars" - oscar wilde
-
-
-(forgot these names originally sorry about that)
 Kent Beck
 Mike Beedle
 Arie van Bennekum
@@ -62,20 +45,3 @@ Ken Schwaber
 Jeff Sutherland
 Dave Thomas
 
-
-
-
----
-
-work together through changing requirements
-true to your personality outside of work
-help the other parties understand how you think about the problem
-and respond with a motivation environment and sustainable progress
-toward perfecting techniques hewn from an iterative mining of 
-designs from events of our shared past
-
-
----
-
-((slight correction for an imperfect world))
-our highest priority is to die happy with ourselves, fuck the customer
