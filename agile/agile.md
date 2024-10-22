@@ -100,4 +100,7 @@ toward perfecting techniques hewn from an iterative mining of
 designs from events of our shared past
 
 
+---
 
+((slight correction for an imperfect world))
+our highest priority is to die happy with ourselves, fuck the customer
