@@ -25,6 +25,11 @@ we view this as the path to competancy for our peers,
 doing so simply and without loosing sight,
 of your highest priority
 
+---
+
+these were the authors of the original document
+their opinion of my rough draft has not been revealed to me at this time
+
 Kent Beck
 Mike Beedle
 Arie van Bennekum
