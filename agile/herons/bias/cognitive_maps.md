@@ -19,3 +19,9 @@ honor:wizbiscut::pencil:short
 trust:dreams::reflection:ambition
 adventure:mentorship::friendship:courage
 samandlegotree:awesomeme::peppermint:refreshing
+memories:dissapointment::prejudice:indoctrination
+posture:physique::immunohealth:survivability
+response:interpretation:physiological:anatomical
+investment:peers::external:motivation
+satisfaction:fufilment::compensation:effeciency
+
