@@ -1,0 +1,38 @@
+# visa assertation
+
+- likes
+- dislikes
+- family
+- skills
+- military background
+- work
+- marriage
+- health
+- region of home/birth
+- parents
+- kids
+- relationships with people close/far from them
+- health/vices
+- job history
+- visa number / passport number
+- all other id cards
+- nicknames
+- sports played
+- colleges
+- basic intelligence capability
+- sexuality
+- cars owned (licenses)
+- receipt purchases
+- weight/eating habits
+- jailtime
+- time left in us
+- favorite things in US
+- favorite US dishes
+- marital status
+- athletic ability
+- soft skills
+- emails/phone#/US accounts
+- why to working in country
+- what they are most afraid of
+- quality of life in home country
+
