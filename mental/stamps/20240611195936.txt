@@ -1,0 +1,24 @@
+some of the journals i don't want to discuss as openly which is why if you need to mind dump regret free
+here are the steps i recommend on linux, on windows you can use WSL or port it to Windows 
+
+```
+# templated 
+
+{this is just a string like "myFile" "myNumber" but use it as replacement}
+journal some stuff into a file called {timestamp}.txt
+
+echo "{my random string 127480512897580412}" >> {timestamp}.txt
+
+cat {timestamp}.txt | sha512sum >> {timestamp}.txt
+
+* then go and delete the stuff you journaled, add reminders if you want *
+
+then use {timestamp}.txt as a reminder of the thoughts you just needed to get out
+
+## full example
+
+echo "felixfelicis" >> 20240000000000.txt; cat 20240000000000.txt | sha512sum >> 20240000000000.txt
+then do the thoughtsectamy 
+
+feel free to make an efficiency for it but i like the extra work otherwise they'd all be like that
+```

@@ -1,0 +1,12 @@
+appreciative of my ability to feel fear,
+while a longing, aching, hope to be rid of all that troubles me,
+without it, as bob ross would say "you can't appreciate the light without the dark"
+
+<<
+although now for my own sanity when the thoughts are dark i do this
+
+cat timestamp.txt | sha512sum >> timestamp.txt
+
+helps me keep track of what the dark thoughts were about,
+validate and enumerate them but not dwell on them
+>>
