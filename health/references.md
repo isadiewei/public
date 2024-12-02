@@ -746,4 +746,24 @@ web|https://www.cancer.gov/news-events/cancer-currents-blog/2020/fda-pembrolizum
 pdf|https://cancerprogressreport.aacr.org/wp-content/uploads/sites/2/2022/09/AACR_CPR_2022.pdf
 img|https://www.verywellhealth.com/thmb/dqoAqQZ_5S0HoeCQ0a9p_crJDVg=/1501x1000/filters:no_upscale():max_bytes(150000):strip_icc()/illo_normal-cells-cancer-cells-596cdd256f53ba00111a65bb.png
 web|https://www.w3schools.com/python/python_dictionaries.asp
-web|https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
+web|https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string# web resources
+
+www.odci.gov/cia/publications/factbook
+www.cnnfyi.com
+www.convert-me.com
+www.elibrary.com
+www.britannica.com
+www.factmonster.com
+www.gallup.com
+www.hoover.com
+www.infoplease.com
+www.ipl.com
+www.itools.com
+www.loc.gov
+www.archives.gov
+www.si.edu
+www.census.gov
+www.fedstats.gov
+stats.bls.gov
+
+http://www.usplastic.com
