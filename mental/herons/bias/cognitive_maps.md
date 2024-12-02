@@ -25,3 +25,5 @@ response:interpretation:physiological:anatomical
 investment:peers::external:motivation
 satisfaction:fufilment::compensation:effeciency
 
+satisfaction:fufilment::compensation:effeciency
+

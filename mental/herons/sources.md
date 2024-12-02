@@ -53,3 +53,20 @@
 - kano model 
 - eagle scout final project workbook
 
+9C Interpersonal Effectiveness - TherapistAid.com
+Forgiveness Journaling - Debbie Rodrigues
+Visualization - @kelsocartography
+Coping Ahead - Marsha M Linehan
+Untwisting Your Thinking - David D. Burns
+interpersonal effectiveness handout 11
+interpersonal effective worksheet 8 p183
+linehan >.>. & Egan, K. L (1985)
+Asserting yourself New York: Facts on File (c) 1985 by Facts on File Publications
+From DBT skills training handout and worksheets, second edition by Marsha M Linehan, (c) 2015 by Marsha M. Linehan
+the whys and hows of feedback; harvard business study, david d burns
+
+reddit/u/beardedglass
+New Oakland Handout: Creating a Personal Intention Statement
+Urge Surfing TherapistAid.com 2021
+Understanding the Ripple Effect WEllness Reproduction and Publishing Incorporated 2000
+
