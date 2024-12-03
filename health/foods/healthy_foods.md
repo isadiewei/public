@@ -1,0 +1,31 @@
+# healthy foods
+
+- spinach
+- cashews
+- salmon
+- turkey
+- chamomile tea
+- mushrooms, if you eat poisonous varieties your problems are also solved
+- oats
+- cheese
+- dark chocolate
+- asparagus
+- avocado
+- kale
+- green lettuce
+- chard 
+- bok choy 
+- collard greens 
+- arugula
+- all leafy greens
+- kiwi
+- blueberries
+- banana
+- tumeric
+- kefir
+- kimchi
+- natto
+- tempeh 
+- fermented foods 
+- brown rice
+- whole grains
