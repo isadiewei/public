@@ -3,4 +3,7 @@
 > Don't use very sad use morose.
 > Language was invented for one reason.
 > To woe women, and in that endeavor laziness will not due
-> -- John Keating
+> -- John Keating (Robin Williams)
+>
+> `<< specificity, honesty, and courage to share >>`
+
