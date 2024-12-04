@@ -1,0 +1,18 @@
+supervised
+- classification
+  - support vector machines
+  - discriminant analysis
+  - naive bayes
+  - nearest neighbors
+- regression
+  - linear regression
+  - ensemble
+  - decision trees
+  - neural networks
+- unsupervised
+  - k-means
+  - c-means
+  - hierarchical
+  - gaussian mixture
+  - neural networks
+  - hidden marker model
