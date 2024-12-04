@@ -1,0 +1,464 @@
+# hobbies
+
+> not everything is something I do regularly, these are things I have enjoyed having as part of my living.
+> file is multipurpose becuase it shows my parents were generous enough to provide me with opportunities,
+> in addition to the boy scouts, also it's probably why I was diagnosed with an attention defficit disorder
+> the world is a fascinating place, if you're always worried about how you are, you'll forget where you are,
+> and what you could be doing, genuinely kinda bored of doing all this 'alone', find yourself a partner and team, 
+
+## hobbies that i am currently in
+
+- research and writing
+- programming and mathematics
+- hiking and moving with something like a car or motorcycle
+
+## other activities at some point
+
+- blacksmithing
+- golf
+- walking
+- soccer
+- volleyball
+- badmitton
+- yoga
+- ice skating
+- swimming
+- roller skating
+- darts
+- s[k]urfing
+- tennis
+- rock climbing
+- snowboarding
+- longboarding
+- mountian biking
+- road biking
+- archery
+- fishing
+- weight-lifting
+- board games 
+- drinking games 
+- cornhole
+- table tennis
+- hikingg
+- bowling
+- nature
+- card making
+- modpodge
+- oil painting
+- acrylic painting
+- drawing
+- doodling
+- sketching
+- sculptures
+- wood structure assembly
+- wood structure re-gifting (sorry grandpa eholma earned it)
+- wood burning
+- burning (i think i mean i like campfires, but shout out to burns)
+- paint by number
+- coloring
+- soaps (lol)
+- star gazing
+- forgetting
+- cloud watching
+- planning
+- computers
+- software
+- writing prose
+- writing poetry
+- writing songs
+- fan fiction
+- romance writing
+- designing
+- jewelry
+- clay crafts
+- photography
+- sewing
+- scrapbooking
+- journaling
+- speech writing
+- interior design
+- acting
+- dreamcatchers
+- singing
+- showmanshop
+- fashion design
+- collage
+- party planning
+- leathercrafts
+- painting rocks
+- rock art
+- tie dye
+- flowers
+- rocks
+- carving
+- print making
+- meuseums
+- sticker collecting
+- reading
+- sudoku
+- languages
+- travelling
+- research
+- teaching
+- botchi ball
+- yard games 
+- gaming
+- volunteering
+- brain teasers
+- quotes
+- gratitiude
+- fire
+- guitar
+- drums
+- piano
+- viola
+- trumpet (the instrument)
+- harmonica
+- recorder
+- music theory
+- card collecting
+- sporting events
+- custom pins
+- magnets
+- physics
+- legos
+- postcards
+- art
+- sea shells
+- driftwood
+- photography
+- ax yards
+- throwing axes
+- knot typing
+- hats
+- matches
+- corks
+- mobiles
+- stuffed animal collecting
+- bottle caps
+- bird watching
+- gardening
+- puzzles
+- candles
+- movies
+- tv shows
+- videography
+- coffee mugs (this reminds me of maddie)
+- coffee drinking (thank you chris)
+- tea
+- coin collecting
+- cooking
+- baking
+- craft beers
+- wine tasting
+- break making
+- card games
+- chess
+- checkers
+- chinese checkers
+- saying sorry
+- sightseeing
+- meditation
+- listening to music
+- problem solving
+- organining
+- camping gear making
+- inventing
+- minimizing or consolodating
+- consolodating
+- driving
+- culture
+- anatomy
+- health sciences
+- billiards
+- knives
+- disc golf
+- arbosism
+- suvival/surviving
+- struggling
+- first aid
+- networking
+- bashing professionalism
+- ettiquite (same thing)
+- entrepreneurship
+- wood working
+- landscaping
+- pet ownership
+- snorkeling
+- diving
+- body surfing
+- boogy boarding
+- backpacking
+- camping
+- sailing
+- fantasy card games
+- backgammon with my mom :)
+- ice cream making
+- toothpaste making
+- tape art
+- list making
+- code making
+- being annoying (survelliance)
+- being annoyed (countersurvelliance)
+- spy gear
+- stories
+- deaddrops
+- therapy
+- psychology
+- embedded systems
+- human rights
+- environmentalism
+- abstract art
+- rockets
+- boards
+- ziplining
+- canoes
+- kayaks
+- frog catching
+- snow shelters
+- hammocking
+- sunbathing
+- furniture building
+- building invented things by myself
+- telescopes
+- markmanship
+- fly-typing
+- orienteering
+- geocaching
+- algorithm building
+- front-end software design
+- langugage creating
+- digital art
+- leadership training
+- thrifting
+- antiques
+- tarot cards
+- astrology
+- personlity testing
+- duct tape
+- sledding
+- "dog"-sled racing
+- geodes
+- caving
+- exploring
+- forgiving
+- eating
+- running
+- sharks
+- heavy machinery
+- lighting bug collecting
+- deep conversations
+- onomonopeas
+- comic books (calvin and hobbes)
+- mathematics
+- sewing
+- mechanicing
+- massage therapy
+- racing
+- signalling
+- rope swings
+- treehouses
+- smash brothers gaming
+- sleeping
+- donating
+- mememing
+- swearing
+- cleaning
+- dirt biking
+- mental health promoting
+- abandoned buildings
+- breakfast clubbing
+- quarry visiting
+- pun making
+- tattoos
+- comedy listening
+- role playing
+- firework watching
+- archetecting
+- detecting
+- pumpkin carving
+- dog sitting
+- space
+- logo designing
+- shelter buildingn
+- horse riding
+- philosophy
+- concerts
+- sporting games
+- mini-golfing
+- croket playing
+- paddleboarding
+- airsoft playing
+- automating
+- supply chain managing
+- forecasting
+- rambling
+- programming
+- psychology
+
+## hobbies to potentially add
+
+### languages
+
+- greek
+- latin
+- russian
+- chinese
+- english
+- nato
+- flags
+- morse
+- hands
+- tactical
+- italian
+- spanish
+- german
+- hebrew
+- sandscrit (arabic)
+- hieroglyphs
+- french
+- portugese
+- japanese
+- sign language
+- ascii
+- unicode
+- programmings
+
+### fighting
+
+- krav maga
+- judo
+- kung fu
+- tiekwando
+- reglar grappling
+- boxing
+- brazilian jiu-jitsu
+- muay thai
+- systema
+- karate
+- taekwondo
+- sambo
+- kickboxing
+- wing chun
+- escrima
+- aikado
+- hapkido
+- kali
+- silat
+- ject lune do
+- MMA
+- wushu? not the pork kind
+
+### vehicles
+
+- cars
+- busses
+- trucks
+- trains
+- planes
+- sailboat
+- large boats
+- motocycles
+- skateboards
+- rollerblades
+- longbpards
+- bobsled
+- kayak
+- windusrfing
+- surfing
+
+### instruments
+
+- violin
+- piano
+- drums
+- guitar
+- trumpet
+- harmoinca
+- flute
+- vocalizing
+- singing
+
+### equipment
+
+- tools of various kinds
+- knives (most important addition here, viva sparta)
+
+### peopley-stuff
+
+- wines
+- suits
+- makeups
+- bodycare
+- stitchwork/knitting
+- posturing
+- flirting
+- fucking
+
+#### health
+
+- first aid
+- pharmacology
+- psychology
+
+### outdoors
+
+- survival skills (this is my favorite one to do right now)
+- orienteering (look like the meijer's over there just go that way)
+- mountaneering (i cannot hold a candle to this one)
+- trapping (furey would kick all your asses as MagicTheGathering)
+- tracking (actually did this one already BSA Centennial let's go)
+- fishing (kill it by removing the brain right)
+- hunting (bambi was fucking delicious)
+- leading (i think i meant dogs and rock climbing)
+- fire-starting (try using a flint and steel it's fun)
+- cooking w/o supplies (i burnt a tortilla today)
+- foraging (if i see pippin one more fucking time i swear to valhalla)
+- herbology (leaves of three let it be let it be)
+- bugging (black flies are the worst in northern michigan)
+- snow sheltering (its been a while since i had enough snow)
+
+# Date Idea Hobbies
+
+- [ ] hike
+- [ ] picnic
+- [ ] bike ride
+- [ ] camp in the backyard
+- [ ] fish
+- [ ] bonfire
+- [ ] play in a sprinkler
+- [ ] go to a park
+- [ ] yoga
+- [ ] watch the sunset
+- [ ] nap in a hammock
+- [ ] rearrange furnitue
+- [ ] de-clutter
+- [ ] garage sale
+- [ ] paint a picture
+- [ ] read a book
+- [ ] bake cookies
+- [ ] organize the pantry
+- [ ] play cards
+- [ ] make a t-shirt quilt
+- [ ] create new recipes
+- [ ] game night 
+- [ ] movie night
+- [ ] jump rope context
+- [ ] kids baking challenge
+- [ ] water balloon fight
+- [ ] fly a kite
+- [ ] do a puzzle
+- [ ] build a fort
+- [ ] go sledding
+- [ ] geocaching
+- [ ] treasure hunt
+- [ ] free concert
+- [ ] festivals
+- [ ] art show
+- [ ] movie in the park
+- [ ] volunteer
+- [ ] site seeing
+- [ ] visit the library
+- [ ] go to the beach
+- [ ] visit a state park
+- [ ] volleyball at the park
