@@ -1,0 +1,44 @@
+# Date Idea Hobbies
+
+- [ ] hike
+- [ ] picnic
+- [ ] bike ride
+- [ ] camp in the backyard
+- [ ] fish
+- [ ] bonfire
+- [ ] play in a sprinkler
+- [ ] go to a park
+- [ ] yoga
+- [ ] watch the sunset
+- [ ] nap in a hammock
+- [ ] rearrange furnitue
+- [ ] de-clutter
+- [ ] garage sale
+- [ ] paint a picture
+- [ ] read a book
+- [ ] bake cookies
+- [ ] organize the pantry
+- [ ] play cards
+- [ ] make a t-shirt quilt
+- [ ] create new recipes
+- [ ] game night 
+- [ ] movie night
+- [ ] jump rope context
+- [ ] kids baking challenge
+- [ ] water balloon fight
+- [ ] fly a kite
+- [ ] do a puzzle
+- [ ] build a fort
+- [ ] go sledding
+- [ ] geocaching
+- [ ] treasure hunt
+- [ ] free concert
+- [ ] festivals
+- [ ] art show
+- [ ] movie in the park
+- [ ] volunteer
+- [ ] site seeing
+- [ ] visit the library
+- [ ] go to the beach
+- [ ] visit a state park
+- [ ] volleyball at the park

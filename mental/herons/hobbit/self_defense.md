@@ -1,0 +1,24 @@
+# fighting
+
+- krav maga
+- judo
+- kung fu
+- tiekwando
+- reglar grappling
+- boxing
+- brazilian jiu-jitsu
+- muay thai
+- systema
+- karate
+- taekwondo
+- sambo
+- kickboxing
+- wing chun
+- escrima
+- aikado
+- hapkido
+- kali
+- silat
+- ject lune do
+- MMA
+- wushu? not the pork kind

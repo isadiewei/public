@@ -1,0 +1,28 @@
+# languages
+
+- greek
+- latin
+- chinese
+- english
+- russian
+- italian
+- spanish
+- german
+- sandscrit 
+- hebrew
+- quotes
+- list making
+- nato
+- sigaling
+- martitime flags
+- morse
+- stories
+- tactical
+- hieroglyphs
+- french
+- portugese
+- japanese
+- sign language
+- ascii
+- unicode
+- programmings

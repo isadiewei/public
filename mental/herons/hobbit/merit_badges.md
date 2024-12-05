@@ -1,0 +1,26 @@
+# Merit Badges
+
+- archery
+- archeology
+- personal fitness
+- backpacking
+- environmental science
+- tracking 100yearsCelebration
+- cinematography
+- family life
+- swimming
+- first aid
+- aviation
+- citizenship in the world
+- wilderness survival
+- personal finance
+- camping
+- climbing 100yearsCelebration
+- carpentry 100yearsCelebration
+- citizenship in the nation
+- cooking
+- citizenship in the community
+- communications
+- lifesaving
+- small boat sailing
+- green sash

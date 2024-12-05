@@ -1,0 +1,64 @@
+# Art
+
+- blacksmithing 
+- stitchwork
+- knitting
+- darts
+- longboarding
+- archery
+- inventing
+- fishing
+- board games 
+- drinking games 
+- cornhole
+- table tennis
+- bowling
+- nature
+- card making
+- modpodge
+- oil painting
+- acrylic painting
+- drawing
+- doodling
+- sketching
+- sculptures
+- paint by number
+- gardening
+- bottle caps
+- corks
+- mobiles
+- candles
+- wood working
+- landscaping
+- driftwood
+- abstract art
+- zentangle
+- coloring
+- custom pins
+- carving
+- rocks
+- postcards
+- sewing
+- digital images
+- jewelry creation
+- wood burning
+- logo designing
+- leathercrafts
+- clay crafts
+- photography
+- scrapbooking
+- tape murals
+- sticker collecting
+- tie dye
+- card collecting
+- painting rocks
+- magnets
+- sea shells
+- fashion design (arguable i go for function over fashion in my designs)
+- rock art (made necklaces and crushed some with geodes)
+- wood art assembly (i built a chair one time, humans did not use it)
+- wood art re-gifting (sorry grandpa eholma earned it)
+- architecting
+- collage (yeah I made a lunch bag with pictures all over it at one point)
+- pumpkin carving
+- fly-making

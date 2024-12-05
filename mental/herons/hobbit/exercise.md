@@ -1,0 +1,21 @@
+# Exercise
+
+- soccer
+- volleyball
+- running
+- weight lifting
+- badmitton
+- golf
+- walking
+- yoga
+- ice skating
+- swimming
+- roller skating
+- biking
+- s[k]urfing
+- tennis
+- rock climbing
+- snowboarding
+- road biking
+- hiking
+- 
