@@ -1,3 +1,8 @@
+# Metabolic Panels
+
+> please don't use without double checking ranges
+> i think i might have pulled min max instead of average ranges
+
 [3,5]g/dL Albumin
 [40,120]IU/L Alkaline Phosphatase
 [2,14]mmo/dL Anion Gap
