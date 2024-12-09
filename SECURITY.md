@@ -1,5 +1,7 @@
 # Security Policy
 
+> this file exists to get git to shut up, we are not updating it right now
+
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
