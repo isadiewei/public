@@ -20,7 +20,7 @@ def get_explanation(line):
             lines.append(explanation)
 
     if explanation != skip_phrase:
-        lines.append(f'\n\n-|{timestamp}')
+        lines.append(f'\n\n-|{timestamp}\n')
     
         file = open(f'{timestamp}.txt', 'w')
         file.writelines(lines)
