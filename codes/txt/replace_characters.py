@@ -18,8 +18,8 @@ def replace_chars(filename, original_char, replacement_char):
 
 if __name__ == '__main__':
     filename = sys.argv[1]
-    original_char = sys.argv[2]
-    replacement_char = '\n' if sys.argv[3] == "newline" else sys.argv[3]
+    original_char = sys.argv[2].replace('newline', '\n')
+    replacement_char = sys.argv[3].replace('newline', '\n')
         
     replace_chars(filename, original_char, replacement_char)
     
