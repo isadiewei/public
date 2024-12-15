@@ -1,4 +1,0 @@
-- [Abstract](./abstract.md)
-	- [programmatic_neuron.py](./neuron/programmatic_neuron.py)
-	- [neurons.md](./neuron/neurons.md)
-		- [python_programming.py](./neuron/codes/python_programming.py)

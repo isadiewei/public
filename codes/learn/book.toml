@@ -1,6 +1,0 @@
-[book]
-authors = ["ironsides"]
-language = "en"
-multilingual = false
-src = "src"
-title = "Machine Learning An Ideaolistic Perspective"
