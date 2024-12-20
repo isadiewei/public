@@ -11,6 +11,7 @@ touch $filename
 echo "" >> $filename
 echo "" >> $filename
 echo "-| $current_date" >> $filename
+echo "" >> $filename
 
 nano $filename
 
