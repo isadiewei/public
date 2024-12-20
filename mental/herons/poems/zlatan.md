@@ -4,7 +4,7 @@
 
 ## Step 1 Accepting You Cannot Become Zlatan Ibrahimovic
 
-read the title as many times as it takes,
+read the step title as many times as it takes,
 
 ## Step 2 Becoming a vastly vastly inferior version of Zlatan Ibrahimovic
 
